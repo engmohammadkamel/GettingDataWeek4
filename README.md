@@ -20,5 +20,5 @@ the R script called "run_analysis.R" reads the raw data, does some data cleaning
 
 - Refer to the file "CodeBook.md" that descripes the variables and the analysis done to genertate the final dataset
 
-###NOTE
+### NOTE
 all the variables/features that have the word "mean" are considered Mean features, this includes the angle() features.

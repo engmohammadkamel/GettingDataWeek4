@@ -1,7 +1,7 @@
 # GettingDataWeek4 : code book
 Getting and Cleaning Data Course: week 4 assignment 
 
-##Notes
+## Notes
 - all the variables/features that have the word "mean" are considered Mean features, this includes the angle() features.
 - The script assumes that the raw data folder called "UCI HAR Dataset" is existing in the working directory.
 - The script will write the output file called "Features Average.txt" to the working directory
@@ -10,11 +10,11 @@ Getting and Cleaning Data Course: week 4 assignment
 ####    read.table("Features Average.txt", header = T)
 
 
-##Codebook
+## Codebook
 
 The dataset shows the average for the mean and STD features for each subject for each activity, all the features that have the word "mean" are considered Mean Feature including the angle() features.
 
-####the dataset conssistes of 4 columns as follows:
+#### the dataset conssistes of 4 columns as follows:
 
 - activity:
 
